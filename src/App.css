@@ -1,0 +1,78 @@
+.title{font-weight: bold;
+font-size: xx-large;}
+
+.moviesRate{width: 20px;
+  height: 10px;
+  display: inline-block;
+font-size: xx-large;}
+
+.Filter{display: flex;
+justify-content: space-evenly;
+flex-direction: column;
+margin-bottom: 100px;
+padding: 50px;}
+
+.searchInput{width: 50%;
+height:30px;
+border: 1px solid black;}
+
+.Filtering{height: 35px;
+border: 1px solid black;
+width: 130px;
+background-color: lightsalmon;
+color: blue;
+font-weight: bolder;}
+
+.stars{
+color: white;
+width:20px;
+height:10px;
+}
+
+.Add{width: 100px;
+height: 30px;
+border:1px solid grey;
+background-color:rgb(30, 209, 24);
+color: white;
+font-weight: bold;
+margin-top: 20px;}
+
+.Modal{
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: black;
+}
+
+.FormModal{display: flex;
+flex-direction: column;}
+
+.CloseModal{margin-left: 45%;} 
+
+.InputTitle  , .InputImage{width: 99%;
+  height:30px;
+  border: 1px solid black;}
+
+.InputRate{width:20px;
+  height:15px;
+  border: 1px solid black;
+margin-left: 48%;}
+
+.LabelTitle , .LabelImage , .LabelRate{text-align: center;
+font-weight: bold;
+background-color: lightseagreen;
+color:white;}
+
+.Submit{width:50px;
+  height: 20px;
+margin-left: 47%;}
+
+.reset{
+  height:30px;
+  width:80px;
+  background-color: beige;
+  border: 2px solid black;
+  font-weight: bold;
+
+}
+
+
